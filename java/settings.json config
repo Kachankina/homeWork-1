@@ -1,0 +1,15 @@
+"java.configuration.runtimes":[
+    {
+        "name": "JavaSE - 1.8",
+        "path": "/opt/java/jdk1.8.0_321",
+    },
+    {
+        "name": "JavaSE-11",
+        "path": "/opt/java/jdk - 11.0.14",
+     },
+     {
+        "name": "JavaSE-17",
+        "path": "/opt/java/jdk-17.0.3.1"
+     },
+],
+
