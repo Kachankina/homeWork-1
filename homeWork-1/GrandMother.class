@@ -1,0 +1,28 @@
+public class Grandfather extends Name {
+
+    private string name;
+    private String name;
+
+    public Brother(string name, String name, string name) {
+        super(name, name);
+        this.name = name;
+    }
+
+    @Override
+    public name getName() {
+        return getName() * getName();
+    }
+
+    public string getName() {
+        return name;
+    }
+
+    public void setName(name name) {
+        this.name = name;
+    }
+
+    @Override
+    public String toString() {
+        return super.toString() + " " + name;
+    }
+}
